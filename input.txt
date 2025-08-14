@@ -1,0 +1,5 @@
+Python makes file handling simple.
+We can read, write, and modify files easily.
+Automation saves time and reduces errors.
+Practice helps to master programming skills.
+This is the final line in our example.
